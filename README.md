@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Guaci Gutierrez. I'm a Spanish girl beginner Front-End. Everyday I do my best to become a good developer.
+My name is Guaci Gutierrez. I'm a Spanish developer girl. Everyday I do my best to become a good developer, that's my goal.
 
 
 ## Languages, Frameworks, Libraries and Tools
