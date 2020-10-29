@@ -17,7 +17,9 @@ My latest projects are small apps that users can interact with, integrating HTML
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-Take a look at my [portfolio](https://guacig.github.io/). I would appreciate any feedback. Thanks!
+Take a look at my [portfolio](https://guacig.github.io/). 
+
+I would appreciate any feedback. Thanks!
 
 
 ![Guaci Gutierrez Portfolio](https://res.cloudinary.com/drpcjt13x/image/upload/v1603218354/Proyectos/Personal%20Portfolio%20Webpage/Guaci_Gutierrez_Front-End_Developer_oo2orr.png "Guaci Gutierrez Portfolio")
