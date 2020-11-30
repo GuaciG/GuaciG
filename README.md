@@ -10,10 +10,11 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 
 - 🌱 I’m currently learning TypeScript, Angular and NestJS. 
 - 💬 Ask me about anything, if I know about it you'll get your answer.
+- 🥰 Passionate about learning new stuffs.
 - 😄 Pronouns: "she" | "her"
 - 📫 How to reach me: guacig@hotmail.com
 - 📝 Portfolio: [portfolio](https://guacig.github.io/)
-- ☕ Btw: I don't like coffee 🙈
+- 🙈 I don't like coffee ☕
 
 
 ## Languages, Frameworks, Libraries and Tools
