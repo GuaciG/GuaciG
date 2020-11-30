@@ -1,30 +1,38 @@
-## Hi there 👋
+## Hi coders! I'm Guaci 👋
 
-My name is Guaci Gutierrez. I'm a Spanish developer girl based in London since 5 years ago. Everyday I do my best to become a good developer, that's my goal.
+👩‍💻 I'm a Spanish developer girl based in London since 5 years ago. As a beginner, I do my best to become a good developer, that's my goal.
 
-Although my projects may not look awesome at first sight, I work hard to build websites, mainly on HTML and CSS code. As a beginner, I try to do my best to start in the amazing world of web development. Fortunately, practice is key to learn from mistakes and keep growing as a developer.
+I work hard to build websites and small apps. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
-My latest projects are small apps that users can interact with, integrating HTML, CSS, Sass, JavaScript, and React. I always try to comply with the basic Responsive Web Design best practices, testing them to make sure they work well on any device, both on desktop and mobile.
+My latest projects are apps that you can interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing them to make sure they work well on any device, both on desktop and mobile.
+
+- 🌱 I’m currently learning TypeScript, Angular and NestJS. 
+- 💬 Ask me about anything, if I know about it you'll get your answer.
+- 📫 How to reach me: guacig@hotmail.com
+- 📝 Portfolio: [portfolio](https://guacig.github.io/)
 
 
 ## Languages, Frameworks, Libraries and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-Take a look at my [portfolio](https://guacig.github.io/). 
 
-I would appreciate any feedback. Thanks!
+I would appreciate any feedback 👌  Thanks! 👍
 
 
 ![Guaci Gutierrez Portfolio](https://res.cloudinary.com/drpcjt13x/image/upload/v1603218354/Proyectos/Personal%20Portfolio%20Webpage/Guaci_Gutierrez_Front-End_Developer_oo2orr.png "Guaci Gutierrez Portfolio")
 
 [![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&theme=radical&show_icons=true)](https://github.com/GuaciG/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact)](https://github.com/GuaciG/github-readme-stats)
 
 <!--
 **GuaciG/GuaciG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
