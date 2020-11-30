@@ -23,9 +23,13 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-[![Linkedin: Guaci](https://img.shields.io/badge/-GuaciGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
-[![GitHub Guaci](https://img.shields.io/github/followers/GuaciG?label=follow&style=social)](http://github.com/GuaciG)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+
+## Follow me
+[![Linkedin: Guaci](https://img.shields.io/badge/-GuaciGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
+
+[![GitHub Guaci](https://img.shields.io/github/followers/GuaciG?label=follow&style=social)](http://github.com/GuaciG)
 
 
 
@@ -35,7 +39,6 @@ I would appreciate any feedback 👌  Thanks! 👍
 ![Guaci Gutierrez Portfolio](https://res.cloudinary.com/drpcjt13x/image/upload/v1603218354/Proyectos/Personal%20Portfolio%20Webpage/Guaci_Gutierrez_Front-End_Developer_oo2orr.png "Guaci Gutierrez Portfolio")
 
 [![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&theme=radical&show_icons=true)](https://github.com/GuaciG/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact)](https://github.com/GuaciG/github-readme-stats)
 
 <!--
