@@ -8,6 +8,7 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 
 <img align='right' src="https://image.freepik.com/vector-gratis/mujer-portatil-sienta-alfombra-concepto-estudio-independiente-o-linea_254995-48.jpg" width="420">
 
+- 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript, Angular and NestJS. 
 - 💬 Ask me about anything, if I know about it you'll get your answer.
 - 🥰 Passionate about learning new stuffs.
@@ -35,8 +36,10 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 [![GitHub Guaci](https://img.shields.io/github/followers/GuaciG?label=follow&style=social)](http://github.com/GuaciG)
 
 
+
 [![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&theme=radical&show_icons=true)](https://github.com/GuaciG/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact)](https://github.com/GuaciG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact&theme=radical)](https://github.com/GuaciG/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GuaciG&repo=github-readme-stats)](https://github.com/GuaciG/github-readme-stats)
 
 I would appreciate any feedback 👌  Thanks! 👍
 
