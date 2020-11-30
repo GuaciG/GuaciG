@@ -39,7 +39,7 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 
 [![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&theme=radical&show_icons=true)](https://github.com/GuaciG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact&theme=radical)](https://github.com/GuaciG/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GuaciG&repo=github-readme-stats)](https://github.com/GuaciG/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GuaciG&repo=GuaciG.github.io&theme=radical)](https://github.com/GuaciG/GuaciG.github.io)
 
 I would appreciate any feedback 👌  Thanks! 👍
 
