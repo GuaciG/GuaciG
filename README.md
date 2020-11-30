@@ -8,8 +8,10 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 
 - 🌱 I’m currently learning TypeScript, Angular and NestJS. 
 - 💬 Ask me about anything, if I know about it you'll get your answer.
+- 😄 Pronouns: "she" | "her"
 - 📫 How to reach me: guacig@hotmail.com
 - 📝 Portfolio: [portfolio](https://guacig.github.io/)
+- ☕ Btw: I don't like coffee 🙈
 
 
 ## Languages, Frameworks, Libraries and Tools
@@ -21,7 +23,9 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Linkedin: Guaci](https://img.shields.io/badge/-GuaciGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
+[![GitHub Guaci](https://img.shields.io/github/followers/GuaciG?label=follow&style=social)](http://github.com/GuaciG)
+
 
 
 
@@ -45,6 +49,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: "she" | "her"
 - ⚡ Fun fact: ...
 -->
