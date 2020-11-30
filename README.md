@@ -6,6 +6,8 @@ I work hard to build websites and small apps. Fortunately, practice is key to le
 
 My latest projects are apps that you can interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing them to make sure they work well on any device, both on desktop and mobile.
 
+<img align='right' src="https://image.freepik.com/vector-gratis/mujer-portatil-sienta-alfombra-concepto-estudio-independiente-o-linea_254995-48.jpg" width="420">
+
 - 🌱 I’m currently learning TypeScript, Angular and NestJS. 
 - 💬 Ask me about anything, if I know about it you'll get your answer.
 - 😄 Pronouns: "she" | "her"
@@ -32,14 +34,14 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 [![GitHub Guaci](https://img.shields.io/github/followers/GuaciG?label=follow&style=social)](http://github.com/GuaciG)
 
 
+[![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&theme=radical&show_icons=true)](https://github.com/GuaciG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact)](https://github.com/GuaciG/github-readme-stats)
 
 I would appreciate any feedback 👌  Thanks! 👍
 
+Credits: [Guaci](https://github.com/GuaciG)
 
-![Guaci Gutierrez Portfolio](https://res.cloudinary.com/drpcjt13x/image/upload/v1603218354/Proyectos/Personal%20Portfolio%20Webpage/Guaci_Gutierrez_Front-End_Developer_oo2orr.png "Guaci Gutierrez Portfolio")
-
-[![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&theme=radical&show_icons=true)](https://github.com/GuaciG/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuaciG&layout=compact)](https://github.com/GuaciG/github-readme-stats)
+Last Edited on: 30/12/2020
 
 <!--
 **GuaciG/GuaciG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
