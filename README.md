@@ -47,9 +47,10 @@ I would appreciate any feedback 👌  Thanks! 👍
 ![VisitorCount](https://profile-counter.glitch.me/GuaciG/count.svg)
 
 Credits: [Guaci](https://github.com/GuaciG)
+<img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" height="auto"/>
 
 Last Edited on: 30/11/2020
-<img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" height="auto"/>
+
 
 
 <!--
