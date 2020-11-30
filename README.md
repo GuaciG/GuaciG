@@ -24,7 +24,7 @@ I would appreciate any feedback. Thanks!
 
 ![Guaci Gutierrez Portfolio](https://res.cloudinary.com/drpcjt13x/image/upload/v1603218354/Proyectos/Personal%20Portfolio%20Webpage/Guaci_Gutierrez_Front-End_Developer_oo2orr.png "Guaci Gutierrez Portfolio")
 
-[![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG)](https://github.com/GuaciG/github-readme-stats)
+[![Guaci's github stats](https://github-readme-stats.vercel.app/api?username=GuaciG&count_private=true)](https://github.com/GuaciG/github-readme-stats)
 
 <!--
 **GuaciG/GuaciG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
