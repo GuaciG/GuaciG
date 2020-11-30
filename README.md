@@ -49,6 +49,8 @@ I would appreciate any feedback 👌  Thanks! 👍
 Credits: [Guaci](https://github.com/GuaciG)
 
 Last Edited on: 30/11/2020
+<img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" height="auto"/>
+
 
 <!--
 **GuaciG/GuaciG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
