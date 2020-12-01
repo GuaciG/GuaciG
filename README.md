@@ -6,7 +6,7 @@ I work hard to build websites and small apps. Fortunately, practice is key to le
 
 My latest projects are apps that you can interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing them to make sure they work well on any device, both on desktop and mobile.
 
-<img align='right' src="https://image.freepik.com/vector-gratis/mujer-portatil-sienta-alfombra-concepto-estudio-independiente-o-linea_254995-48.jpg" width="420">
+<img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript, Angular and NestJS. 
