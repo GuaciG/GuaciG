@@ -1,10 +1,10 @@
 ## Hi coders! I'm Guaci 👋
 
-👩‍💻 I'm a Spanish developer girl based in London since 5 years ago. As a beginner, I do my best to become a good developer, that's my goal.
+👩‍💻 I'm a Spanish developer girl based in London since more than 5 years ago. As a beginner, I do my best to become a good developer, that's my goal.
 
 I work hard to build websites and small apps. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
-My latest projects are apps that you can interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing them to make sure they work well on any device, both on desktop and mobile.
+My latest projects are apps that you can interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing my projects to make sure they work well on any device.
 
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
