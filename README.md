@@ -10,6 +10,7 @@ My latest projects are apps that you can interact with, integrating HTML, CSS, S
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript, Angular and NestJS. 
+- 👯 I’m looking to collaborate within a professional team.
 - 💬 Ask me about anything, if I know about it you'll get your answer.
 - 🥰 Passionate about learning new stuffs.
 - 😄 Pronouns: "she" | "her"
