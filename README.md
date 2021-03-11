@@ -4,7 +4,7 @@
 
 I work hard to build websites and small apps. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
-My latest projects are apps that you can interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing my projects to make sure they work well on any device.
+My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing my projects to make sure they work well on any device.
 
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
@@ -52,7 +52,7 @@ I would appreciate any feedback 👌  Thanks! 👍
 Credits: [Guaci](https://github.com/GuaciG)
 <img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" height="auto"/>
 
-Last Edited on: 30/11/2020
+Last Edited on: 05/03/2021
 
 
 
