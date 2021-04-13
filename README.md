@@ -2,7 +2,7 @@
 
 👩‍💻 I'm a Spanish developer girl based in London since more than 5 years ago. As a junior, I do my best to become a better developer, that's my goal.
 
-I work hard to build websites and small apps. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
+I work hard to build responsive websites and small apps so far, but very motivated to be part of big projects. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
 My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing my projects to make sure they work well on any device.
 
