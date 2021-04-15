@@ -34,7 +34,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 
 
 ## Follow me
-[![Linkedin: Guaci](https://img.shields.io/badge/-Guacimara G-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
+[![Linkedin: Guaci](https://img.shields.io/badge/-GuacimaraG-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
 
 [![Instagram Guaci](https://img.shields.io/badge/-@guacigm-eb07c1?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/guacigm/)](https://www.instagram.com/guacigm/)
                     
