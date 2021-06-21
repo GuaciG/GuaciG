@@ -8,8 +8,8 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning TypeScript, Angular and NestJS. 
+- 🔭 I’m currently working on my portfolio and some projects with Angular and Node.js.
+- 🌱 I’m currently learning TypeScript, Angular and Node.js. 
 - 👯 I’m looking to collaborate within a professional team.
 - 💬 Ask me about anything, if I know about it you'll get your answer.
 - 🥰 Passionate about learning new stuffs.
@@ -29,6 +29,9 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=8946d6)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=fc0d0d)
+![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
