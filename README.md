@@ -4,11 +4,11 @@
 
 I work hard to build responsive websites and small apps so far, but very motivated to be part of big projects. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
-My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with the basic Responsive Web Design best practices, testing my projects to make sure they work well on any device.
+My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. While working, I focus on visual design, accesibility and trying to comply with the basic Responsive Web Design best practices. Also, I test my projects to make sure they work well on any device.
 
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
-- 🔭 I’m currently working on my portfolio and some projects with Angular and Node.js.
+- 🔭 I’m currently working on my portfolio and some personal projects to improve my React skills.
 - 🌱 I’m currently learning TypeScript, Angular and Node.js. 
 - 👯 I’m looking to collaborate within a professional team.
 - 💬 Ask me about anything, if I know about it you'll get your answer.
@@ -26,12 +26,10 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=f252a2)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=8946d6)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=fc0d0d)
-![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
