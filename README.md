@@ -21,7 +21,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 
 ## Languages, Frameworks, Libraries and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=fc0d0d)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=f252a2)
@@ -34,7 +34,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-black?style=flat-square&logo=vite&logoColor=646CFF)
-![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=red)
+![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=fc0d0d)
 
 
 ## Follow me
