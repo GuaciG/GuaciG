@@ -34,6 +34,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-black?style=flat-square&logo=vite&logoColor=646CFF)
+![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=red)
 
 
 ## Follow me
