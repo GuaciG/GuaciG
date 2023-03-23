@@ -32,7 +32,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=fc0d0d)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next)
+![Nextjs](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white)
 
 
 ## Follow me
