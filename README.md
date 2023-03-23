@@ -31,8 +31,8 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=fc0d0d)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Nextjs](https://img.shields.io/badge/-Nextjs-181717?style=flat-square&logo=next)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next)
 
 
 ## Follow me
