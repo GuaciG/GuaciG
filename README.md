@@ -8,8 +8,8 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
-- 🔭 I’m currently working on my portfolio and some personal projects to improve my React skills.
-- 🌱 I’m currently learning TypeScript, Angular and Node.js. 
+- 🔭 I’m currently working on personal projects to improve my React skills.
+- 🌱 I’m currently learning TypeScript, Reactjs, NextJs and Tailwindcss. 
 - 👯 I’m looking to collaborate within a professional team.
 - 💬 Ask me about anything, if I know about it you'll get your answer.
 - 🥰 Passionate about learning new stuffs.
