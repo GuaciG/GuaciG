@@ -4,7 +4,7 @@
 
 I work hard to build responsive websites and small apps so far, but very motivated to be part of big projects. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
-My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React and jQuery. I always try to comply with responsive design best practices, being focused on visual design and accessibility, besides testing them to make sure they work well on any device.
+My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React, Nextjs and Tailwindcss. I always try to comply with responsive design best practices, being focused on visual design and accessibility, besides testing them to make sure they work well on any device.
 
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
 
