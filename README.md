@@ -16,7 +16,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 - 😄 Pronouns: "she" | "her"
 - 📫 How to reach me: guacig@hotmail.com
 - 📝 Portfolio: [portfolio](https://guacig.github.io/)
-- 🙈 I don't like coffee ☕
+- 🙈 I don't like coffee ☕ but... I love chai latte 🥤
 
 
 ## Languages, Frameworks, Libraries and Tools
