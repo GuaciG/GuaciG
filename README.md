@@ -33,7 +33,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=fc0d0d)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro&logoColor=orange)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss&logoColor=646CFF)
 ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=646CFF)
 ![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=fc0d0d)
