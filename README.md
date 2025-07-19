@@ -55,6 +55,7 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 I would appreciate any feedback 👌  Thanks! 👍
 
 #### Thanks for visiting :heart:
+
 ![VisitorCount](https://profile-counter.glitch.me/GuaciG/count.svg)
 
 Credits: [Guaci](https://github.com/GuaciG)
