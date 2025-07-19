@@ -1,11 +1,16 @@
 ## Hi coders! I'm Guaci 👋
 
-👩‍💻 I'm a Spanish developer girl based in Spain. As a junior, I do my best to become a better developer, that's my goal.
+👩‍💻 I'm a web developer based in Spain, passionate about building clean, responsive, and accessible user interfaces. As a junior developer, I'm constantly learning and improving — for me, growth is not just a goal, it's a mindset.
 
-I work hard to build responsive websites and small apps so far, but very motivated to be part of big projects. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
+So far, I’ve been focused on creating responsive websites and small applications using technologies like **HTML, CSS, Sass, JavaScript, React, Next.js**, and **Tailwind CSS**. I'm especially interested in visual design, accessibility, and making sure everything works smoothly across all devices.
 
-My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React, Nextjs and Tailwindcss. I always try to comply with responsive design best practices, being focused on visual design and accessibility, besides testing them to make sure they work well on any device.
+I'm motivated to take on bigger challenges and be part of projects that make an impact. I believe in learning through practice, embracing mistakes, and building better with every step.
 
+Let’s build something great together!
+
+
+
+## Something about me...
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="400">
 
 - 🔭 I’m currently working on personal projects to improve my React skills.
@@ -40,9 +45,9 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 
 
 ## Follow me
-[![Linkedin: Guaci](https://img.shields.io/badge/-GuacimaraG-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
+[![Linkedin: Guaci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guacimaragutierrez/)](https://www.linkedin.com/in/guacimaragutierrez/)
 
-[![Instagram Guaci](https://img.shields.io/badge/-@guacigm-eb07c1?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/guacigm/)](https://www.instagram.com/guacigm/)
+[![Instagram Guaci](https://img.shields.io/badge/-Instagram-eb07c1?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/guacigm/)](https://www.instagram.com/guacigm/)
                     
 [![GitHub Guaci](https://img.shields.io/github/followers/GuaciG?label=follow&style=social)](http://github.com/GuaciG)
 
@@ -54,9 +59,6 @@ My latest projects are apps you can easily interact with, integrating HTML, CSS,
 
 I would appreciate any feedback 👌  Thanks! 👍
 
-#### Thanks for visiting :heart:
-
-![VisitorCount](https://profile-counter.glitch.me/GuaciG/count.svg)
 
 ![](https://komarev.com/ghpvc/?username=GuaciG&color=brightgreen&label=PROFILE+VIEWS)
 
@@ -66,6 +68,7 @@ I would appreciate any feedback 👌  Thanks! 👍
 
 Credits: [Guaci](https://github.com/GuaciG)
 
+#### Thanks for visiting :heart:
 Last Edited on: 2025
 
 
