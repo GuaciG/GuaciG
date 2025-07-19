@@ -58,8 +58,13 @@ I would appreciate any feedback 👌  Thanks! 👍
 
 ![VisitorCount](https://profile-counter.glitch.me/GuaciG/count.svg)
 
-Credits: [Guaci](https://github.com/GuaciG)
+![](https://komarev.com/ghpvc/?username=GuaciG&color=brightgreen&label=PROFILE+VIEWS)
+
+
+
 <img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150" height="auto"/>
+
+Credits: [Guaci](https://github.com/GuaciG)
 
 Last Edited on: 2025
 
