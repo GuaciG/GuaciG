@@ -6,7 +6,7 @@ I work hard to build responsive websites and small apps so far, but very motivat
 
 My latest projects are apps you can easily interact with, integrating HTML, CSS, Sass, JavaScript, React, Nextjs and Tailwindcss. I always try to comply with responsive design best practices, being focused on visual design and accessibility, besides testing them to make sure they work well on any device.
 
-<img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="420">
+<img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="300">
 
 - 🔭 I’m currently working on personal projects to improve my React skills.
 - 🌱 I’m currently learning TypeScript and Nodejs. 
