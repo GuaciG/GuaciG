@@ -1,6 +1,6 @@
 ## Hi coders! I'm Guaci 👋
 
-👩‍💻 I'm a Spanish developer girl based in London. As a junior, I do my best to become a better developer, that's my goal.
+👩‍💻 I'm a Spanish developer girl based in Spain. As a junior, I do my best to become a better developer, that's my goal.
 
 I work hard to build responsive websites and small apps so far, but very motivated to be part of big projects. Fortunately, practice is key to learn from mistakes and keep growing as a professional.
 
