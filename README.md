@@ -1,8 +1,8 @@
 ## Hi coders! I'm Guaci 👋
 
-👩‍💻 I'm a web developer based in Spain, passionate about building clean, responsive, and accessible user interfaces. As a junior developer, I'm constantly learning and improving — for me, growth is not just a goal, it's a mindset.
+👩‍💻 I'm a Frontend developer based in Spain, passionate about building clean, responsive, and accessible user interfaces. As a junior developer, I'm constantly learning and improving — for me, growth is not just a goal, it's a mindset.
 
-So far, I’ve been focused on creating responsive websites and small applications using technologies like **HTML, CSS, Sass, JavaScript, React, Next.js**, and **Tailwind CSS**. I'm especially interested in visual design, accessibility, and making sure everything works smoothly across all devices.
+So far, I’ve been focused on creating responsive websites and small applications using technologies like **HTML, CSS, Sass, JavaScript, React, Next.js, Vue**, and **Tailwind CSS**. I'm especially interested in visual design, accessibility, and making sure everything works smoothly across all devices.
 
 I'm motivated to take on bigger challenges and be part of projects that make an impact. I believe in learning through practice, embracing mistakes, and building better with every step.
 
@@ -13,12 +13,12 @@ Let’s build something great together!
 ## Something about me...
 <img align='right' src="https://res.cloudinary.com/drpcjt13x/image/upload/v1606815658/Profile/independent-student_vewx3m.jpg" width="400">
 
-- 🔭 I’m currently working on personal projects to improve my React skills.
-- 🌱 I’m currently learning TypeScript and Nodejs. 
+- 🔭 I’m currently working on personal projects to improve my skills.
+- 🌱 I’m currently learning TypeScript and Vue. 
 - 👯 I’m looking to collaborate within a professional team.
 - 💬 Ask me about anything, if I know about it you'll get your answer.
-- 🥰 Passionate about learning new stuffs.
-- 😄 Pronouns: "she" | "her"
+- 🥰 Passionate about learning new things.
+- 😄 Pronouns: "she" | "her" | ...just call me Guaci, pronounced /Wuasi/
 - 📫 How to reach me: guacig@hotmail.com
 - 📝 Portfolio: [portfolio](https://guacig.github.io/)
 - 🙈 I don't like coffee ☕ but... I love chai latte 🥤
@@ -41,7 +41,9 @@ Let’s build something great together!
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro&logoColor=orange)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss&logoColor=646CFF)
 ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=646CFF)
+![Vue](https://img.shields.io/badge/Vue-black?style=flat-square&logo=vue&logoColor=green)
 ![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=fc0d0d)
+![Vitest](https://img.shields.io/badge/Vitest-black?style=flat-square&logo=vitest&logoColor=orange)
 
 
 ## Follow me
